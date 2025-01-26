@@ -1,6 +1,16 @@
-# 2025L-ExploratoryDataAnalysis
+### Wstęp do eksploracji danych
 
+Semestr letni 2024/25 [@kozaka93](https://github.com/kozaka93) [@krzyzinskim](https://github.com/krzyzinskim) [@maciejchrabaszcz ](https://github.com/maciejchrabaszcz )
 
+Materiały z zajęć *Wstęp do eksploracji danych* prowadzonych na Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej.
+
+Wstęp do eksploracji danych składa się z:
+
+-   wykładu
+-   zajęć laboratoryjnych
+-   zajęć projektowych
+
+### Terminy i tematy zajęć 
 
 <div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 792px"><colgroup>
 <col style="width: 55px">
@@ -43,14 +53,14 @@
     <td>2</td>
     <td>projekt</td>
     <td>P1: pomysł, źródło danych</td>
-    <td>PD1 (6p)</td>
+    <td>P1 (1p)</td>
   </tr>
   <tr>
     <td>11.mar</td>
     <td>2</td>
     <td>lab</td>
     <td>R: ggplot2 - wstęp i gramatyka</td>
-    <td>P1 (1p)</td>
+    <td>PD1 (6p)</td>
   </tr>
   <tr>
     <td>12.mar</td>
@@ -242,3 +252,22 @@
     <td>projekt</td>
   </tr>
 </tbody></table></div>
+
+
+### Schemat oceniania (suma 90p):
+
+- projekt I (24p):
+
+- projekt II (20p):
+
+- prace domowe (36p = 6 x 6p)
+	- za każdą pracę domową uzyskuje się do 6p
+
+- test (10p)
+    
+    
+Z każdego projektu należy uzyskać ponad 50% możliwych punktów.
+
+| Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Punkty   | (45, 54] | (54, 63] | (63, 72] | (72, 81] | (81, ∞) |
