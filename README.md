@@ -31,7 +31,7 @@ Wstęp do eksploracji danych składa się z:
     <td>25.lut</td>
     <td>2</td>
     <td>lab</td>
-    <td>R: wstęp, proton + GitHub</td>
+    <td><a href="https://github.com/kozaka93/2025L-ExploratoryDataAnalysis/tree/main/labs/lab01">R: wstęp, proton + GitHub</a></td>
     <td></td>
   </tr>
   <tr>
