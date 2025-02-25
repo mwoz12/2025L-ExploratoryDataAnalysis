@@ -38,7 +38,7 @@ Wstęp do eksploracji danych składa się z:
     <td>26.lut</td>
     <td>2</td>
     <td>wykład</td>
-    <td>Wstęp, zasady zaliczenia, eksploracja danych, narzędzia, przedstawienie tematyki projektów</td>
+    <td><a href="https://github.com/kozaka93/2025L-ExploratoryDataAnalysis/blob/main/lectures/L01-intro.pdf">Wstęp, zasady zaliczenia, eksploracja danych, narzędzia,</a> <a href="https://github.com/kozaka93/2025L-ExploratoryDataAnalysis/tree/main/projects/project1">przedstawienie tematyki projektów</a></td>
     <td></td>
   </tr>
   <tr>
