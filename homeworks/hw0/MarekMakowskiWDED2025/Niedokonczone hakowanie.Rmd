@@ -1,0 +1,61 @@
+```{r}
+install.packages("proton")
+library(proton)
+proton()
+```
+
+```{r}
+employees
+```
+```{r}
+login <- subset(employees, paste(name, surname) == "John Insecure")$login
+print(login)
+```
+
+```{r}
+proton(action="login",login="johnins")
+```
+```{r}
+top1000passwords
+```
+
+
+
+```{r}
+for(i in 1:1000){
+  proba <- proton(action = "login", login="johnins", password=top1000passwords[i])
+  if(proba == "Success! User is logged in!")
+    break
+}
+proba
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
