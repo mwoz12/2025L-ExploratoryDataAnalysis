@@ -1,4 +1,4 @@
-# P1: 
+# P1: Cyfrowy Portret Polski
                  
 ### Opis projektu
 
@@ -70,10 +70,57 @@ Za projekt można otrzymać od 0 do 24 punktów, z czego:
 Podczas prezentacji z każdego zespołu musi być obecna co najmniej jedna osoba. Nieobecność całego zespołu podczas sesji plakatowej skutkuje brakiem punktów za prezentację (-4 pkt) oraz możliwością zdobycia maksymalnie 80% za plakat (12 pkt).
 
 ## Przykłady danych
-TBD
 
+Gdzie szukać danych?
 
+1. Otwarte Dane - portal prowadzi do wielu innych źródeł lub bezpośrednio do zbiorów danych
+https://dane.gov.pl
 
+3. Bank Danych Lokalnych (na poziomie miejscowości, gmin, powiatów, województw, całego kraju)
+- https://bdl.stat.gov.pl/BDL/start
+- https://api.stat.gov.pl/Home/BdlApi - API
+  
+3. Statystyki NFZ
+- https://api.nfz.gov.pl/app-stat-api-jgp/
+- https://github.com/PolishNHF/nfzapir1 - pakiet R-owy do korzystania z API
+
+  
+Konkretniejsze tematy projektów wraz ze zbiorami:
+
+1. Czym i jak jeżdżą Polacy?
+- https://dane.gov.pl/pl/dataset/3754 - marki samochodów osobowych
+- https://dane.gov.pl/pl/dataset/3753 - badania techniczne
+- https://dane.gov.pl/pl/dataset/4365 - kontrole drogowe
+- https://dane.gov.pl/pl/dataset/440 - zarejestrowane pojazdy
+  
+2. Apteki w Polsce
+- https://dane.gov.pl/pl/dataset/1925 - rejestr aptek
+- https://dane.gov.pl/pl/dataset/3248 - wystawione recepty farmaceutyczne
+  
+3. Gdzie i co można studiować w Polsce? 
+- https://radon.nauka.gov.pl/dane/instytucje-systemu-szkolnictwa-wyzszego-i-nauki - uczelnie
+- https://radon.nauka.gov.pl/dane/studia-prowadzone-na-okreslonym-kierunku - kierunki studiów
+  
+4. Demografia Polski
+- https://demografia.stat.gov.pl/bazademografia/Prognoza_2023_2060.aspx - prognoza liczby ludności
+- https://demografia.stat.gov.pl/bazademografia/TrwanieZycia.aspx - tablice przewidywanej długości życia
+  
+5. Imiona i nazwiska w Polsce
+- https://dane.gov.pl/pl/dataset/219 - imiona nadawane dzieciom
+- https://dane.gov.pl/pl/dataset/1667 - imiona w rejestrze PESEL
+- https://dane.gov.pl/pl/dataset/1681 - nazwiska w rejestrze PESEL
+  
+6. Cyfryzacja Polaków
+- https://dane.gov.pl/pl/dataset/2636 - Profile Zaufane
+- https://dane.gov.pl/pl/dataset/2919 - instalacje aplikacji mObywatel
+
+7. Stan jakości powietrza
+- https://powietrze.gios.gov.pl/pjp/home - tabele zawierające indeks jakości powietrza, stężenie pyłków
+
+8. Narodowy Spis Powszechny
+- https://stat.gov.pl/spisy-powszechne/nsp-2021/nsp-2021-wyniki-ostateczne/ - wyniki NSP
+
+     
 ## Oddanie projektu
 
 Czas na wykonanie projektu jest do  **15-04-2025** - do tego dnia (włącznie) będą przyjmowane Pull Requests na GitHub.
