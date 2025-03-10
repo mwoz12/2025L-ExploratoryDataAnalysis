@@ -9,13 +9,13 @@ df <- read.csv("data.csv")
 # Rozwiązanie: ------------------------------------------------------------
 
 # Gender - jakościowa, binarna
-# Age - ilościowa, przedziałowa
+# Age - ilościowa, ilorazowa
 # Occupation - jakościowa, nominalna
-# Sleep.Duration - ilościowa, przedziałowa
-# Quality.of.Sleep - jakościowa, uporządkowana
-# Physical.Activity.Level - jakościowa, uporządkowana 
-# BMI.Category - jakościowa, nominalna
-# Sleep.Disorder - jakościowa, binarna
+# Sleep.Duration - ilościowa, ilorazowa
+# Quality.of.Sleep - ilościowa, przedziałowa
+# Physical.Activity.Level - iloścciowa, przedziałowa
+# BMI.Category - jakościowa, uporządkowana
+# Sleep.Disorder - jakościowa, nominalna
 
 
 ########### Zad 2 (0.5pkt) ###########
