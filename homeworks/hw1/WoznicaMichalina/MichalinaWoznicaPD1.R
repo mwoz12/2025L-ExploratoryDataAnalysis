@@ -1,6 +1,6 @@
 # Ładowanie pakietów
 library(dplyr)
-
+library(tidyr)
 # Ładowanie danych
 df <- read.csv("data.csv")
 ########### Zad 1 (1pkt) ###########
@@ -66,9 +66,6 @@ df %>%
 ########### Zad 5 (0.5pkt) ###########
 # W jakich zawodach jest więcej otyłych (Obese) mężczyzn niż otyłych kobiet?
 
-install.packages('tidyr')
-library(tidyr)
-
 df %>% 
   filter(BMI.Category == "Obese") %>% 
   group_by(Occupation, Gender) %>% 
@@ -117,7 +114,7 @@ df %>%
 # względem osób które mają co najmniej 50 lat (grupa 1) i poniżej 50 lat (grupa 2). 
 
 # Rozwiązanie: 
-library(tidyr)
+
 zawody2 <- 
   df %>% 
   group_by(Occupation) %>% 
